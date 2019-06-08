@@ -14,7 +14,7 @@ You ready? Here we go.
 
 Our story starts with the late Yahoo back in its glory days, the mid-2000s. Yahoo was the heart of a lot of Javascript activity back then. It employed a lot of Javascript thought leaders, like Douglas Crockford, and it was pushing the state of the art forward. It might not have had a good business plan, but it had a good tech stack.
 
-One thing Yahoo had in its tech stack was a package manager, called ypm, that apparently did some neat things.
+One thing Yahoo had in its tech stack was a package manager, called yinst, that apparently did some neat things.
 
 Javascript was starting to be very interesting as a programming language, around then thanks to jquery and modern browsers adhering to a spec. Server-side Javascript was a hot topic, and there were several projects in motion attempting to make that happen.
 
